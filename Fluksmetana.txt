@@ -1,0 +1,6 @@
+Awal punya akun github
+-sign in github
+-daftar email
+-beri nama repository
+- lihat kanan pojok warna hijau
+- commit change
