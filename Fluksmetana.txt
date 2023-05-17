@@ -4,4 +4,5 @@ Awal punya akun github
 -beri nama repository
 - lihat kanan pojok warna hijau
 - commit change
-- ini juga bisa di edir, tapi tadi kenapa harus bikin readme terlebih dahulu
+- ini juga bisa di edit, tapi tadi kenapa harus bikin readme terlebih dahulu
+- dimana tempat menyimpan penjelasan nya?
