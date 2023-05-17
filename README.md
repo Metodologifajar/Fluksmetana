@@ -1,0 +1,2 @@
+# Fluksmetana
+latihan membuat redme
